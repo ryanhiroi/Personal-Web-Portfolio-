@@ -32,11 +32,10 @@ The project is organized as follows:
 ├── README.md         # Project documentation
 │
 └── assets/           # Image resources
-    ├── profile.jpg   # Profile picture
-    ├── project1.jpg  # PC Assembly Project image
-    ├── project2.jpg  # Semiconductor Sim Project image
-    ├── project3.jpg  # Cooling System Project image
-    └── favicon.ico   # Browser tab icon
+    ├── PFP.jpg   # Profile picture
+    ├── PC.jpg  # PC Assembly Project image
+    ├── CPU.jpg  # Semiconductor Sim Project image
+    ├── FAN.jpg  # Cooling System Project image
 
 ```
 
